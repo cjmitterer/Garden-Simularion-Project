@@ -1,4 +1,5 @@
-# project-team-12-2
+Garden Simulation Project:
+
 Group members: Michal Bargenda, Ben Salis, CJ Mitterer, Nick Perugini, Jack Sabagh
 
 This is a garden design program for the Native Plants of Delaware. The goal of the program is to design a garden that will support the highest possible number of leps. Our garden design program first allows the user to decide whether to start a new garden or open an existing one. For new gardens, the user is then expected to insert in all of their personal garden needs: garden size, soil content, moisture levels, sunlight levels, and their budget. Once every field is filled out, the user can create their garden.
